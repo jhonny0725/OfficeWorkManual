@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sh text eo1=1f
